@@ -1,0 +1,11 @@
+{
+  "name": "BillSplit",
+  "short_name": "BillSplit",
+  "description": "Personal shared expense and bill tracker. Use it like a phone app or as a website.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#4f7df9",
+  "lang": "en"
+}
